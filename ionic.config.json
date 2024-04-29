@@ -1,0 +1,8 @@
+{
+  "name": "taller_programacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "2a1145fa"
+}
